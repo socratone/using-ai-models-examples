@@ -1,5 +1,4 @@
 torch          # 대부분의 transformers 모델이 필요로 하는 PyTorch
-python-dotenv # .env 파일에서 환경 변수를 로드
 transformers   # Hugging Face의 NLP 모델을 위한 transformers 라이브러리
 pillow         # 이미지 처리 기능을 제공하는 Pillow 라이브러리 (필수: 이미지 캡셔닝 등 이미지 작업)
 accelerate
