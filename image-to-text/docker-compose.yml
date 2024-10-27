@@ -1,5 +1,5 @@
 services:
-  text-to-image:
+  image-to-text:
     build: .
     volumes:
       - ${MODEL_PATH}:/app/model

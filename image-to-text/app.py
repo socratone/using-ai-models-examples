@@ -1,7 +1,6 @@
 from transformers import pipeline
 import os
- 
-# img2text
+
 def image_to_text(url):
     local_model_path = os.path.expanduser("/app/model")
 
