@@ -2,7 +2,7 @@
 
 ## 실행
 
-아래를 참고해서 모델을 다운 받은 후 아래 명령어를 입력한다.
+아래를 참고해서 모델을 다운 받은 후 다음 명령어를 입력한다.
 
 ```
 docker-compose -f ./image-to-text/docker-compose.yml up --build
