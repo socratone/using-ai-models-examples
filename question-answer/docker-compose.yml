@@ -1,0 +1,6 @@
+services:
+  question-answer:
+    build: .
+    volumes:
+      - ${MODEL_PATH}:/app/model
+    command: python app.py

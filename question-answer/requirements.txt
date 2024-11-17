@@ -1,0 +1,3 @@
+torch          # 대부분의 transformers 모델이 필요로 하는 PyTorch
+transformers   # Hugging Face의 NLP 모델을 위한 transformers 라이브러리
+accelerate
